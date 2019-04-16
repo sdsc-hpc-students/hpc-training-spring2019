@@ -1,4 +1,4 @@
-# hpc-training-spring2019
+# HPC Training:  Spring 2019
 Repository for HPC Training Materials (lectures, code, etc.)
 
 # Overview
