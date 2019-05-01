@@ -5,11 +5,9 @@
 Kickoff and Orientation
 
 ## READING AND PRESENTATIONS:
-Homework [here](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)
+[HPC-Students-Kickoff-Mtg-01-18-2019.pdf](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)
+[HPC-Training-Overview-04-12-2019.pdf](HPC-Training-Overview-04-12-2019.pdf)
 
-[https://github.com/sdsc-hpc-students/hpc-training-spring2019/tree/master/wk2-04-12-19/HPC-Students-Kickoff-Mtg-01-18-2019.pdf]
-
-[https://github.com/sdsc-hpc-students/hpc-training-spring2019/tree/master/wk2-04-12-19/HPC-Training-Overview-04-12-2019.pdf]
 
 ## TASKS:
 #1:   Create your EXEDE portal account
