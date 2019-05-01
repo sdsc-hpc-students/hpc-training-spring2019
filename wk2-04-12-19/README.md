@@ -5,7 +5,7 @@
 Kickoff and Orientation
 
 ## READING AND PRESENTATIONS:
-(HPC-Students-Kickoff-Mtg)[./HPC-Students-Kickoff-Mtg-01-18-2019.pdf]
+(HPC-Students-Kickoff-Mtg)[./wk2-04-12-19/HPC-Students-Kickoff-Mtg-01-18-2019.pdf]
 
 [https://github.com/sdsc-hpc-students/hpc-training-spring2019/tree/master/wk2-04-12-19/HPC-Students-Kickoff-Mtg-01-18-2019.pdf]
 
