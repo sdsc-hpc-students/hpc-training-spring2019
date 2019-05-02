@@ -9,14 +9,14 @@ Kickoff and Orientation
 * [HPC-Training-Overview-04-12-2019.pdf](HPC-Training-Overview-04-12-2019.pdf)
 
 ## TASKS:
-#1:   Create your EXEDE portal account
-#2:   Email the portalID to Mary  - this will activate the Comet account creation 
+1.   Create your EXEDE portal account
+2.   Email the portalID to Mary  - this will activate the Comet account creation 
            process, which might take 24 hours.
 
-#3:   Log onto Comet and some of the commands in these tutorials:
-	-  https://github.com/sdsc-training/webinars/tree/master/getting_started
-	- Check out passwordless SSH:   
-	       https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
-	-  https://github.com/sdsc-training/webinars/tree/master/getting_started
-	-  https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
+3.   Log onto Comet and some of the commands in these tutorials:
+	*  https://github.com/sdsc-training/webinars/tree/master/getting_started
+	* Check out passwordless SSH:   
+	*      https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
+	*  https://github.com/sdsc-training/webinars/tree/master/getting_started
+	*  https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
 
