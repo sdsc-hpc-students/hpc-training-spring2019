@@ -8,7 +8,7 @@ Presented by: Dr. Martin Kandes
 * [https://computing.llnl.gov/tutorials/openMP/](https://computing.llnl.gov/tutorials/openMP/)
 
 ## TASKS:
-1. List1
+1. Tas1
 
      - TBA
 
