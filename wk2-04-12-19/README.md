@@ -14,8 +14,8 @@ Kickoff and Orientation
            process, which might take 24 hours.
 
 3.   Log onto Comet and some of the commands in these tutorials:
-  * https://github.com/sdsc-training/webinars/tree/master/getting_started
-  * https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
+    - https://github.com/sdsc-training/webinars/tree/master/getting_started
+    - https://github.com/sdsc-training/webinars/tree/master/basic_linux_skills
 4. Check out passwordless SSH:   
-  *      https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
+    - https://www.tecmint.com/ssh-passwordless-login-using-ssh-keygen-in-5-easy-steps
 
