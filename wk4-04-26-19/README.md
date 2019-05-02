@@ -1,5 +1,5 @@
 # HPC Training:  Spring 2019
- Week 4: 04/25/2019
+ Week 4: 04/26/2019
 
 ## TOPIC: OpenMP/Threads based computing 
 Presented by: Dr. Martin Kandes
