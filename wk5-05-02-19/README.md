@@ -1,16 +1,15 @@
 # HPC Training:  Spring 2019
- Week 3: 04/19/2019
+ Week 5: 05/03/2019
 
-## TOPIC:  Running Jobs on Comet 
-Presented by:  Mary Thomas (mthomas@sdsc.edu)
+## TOPIC:  CUDA/GPU Computing
+Presented by: Andreas Goetz (agoetz  at  sdsc.edu)
 
 ## READING AND PRESENTATIONS:
-* [XX](XX)
+
+TBA
 
 ## TASKS:
-1. List1
-
-     - sub1
-     - sub2
+1. TBA
+    - TBA
 
 
