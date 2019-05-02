@@ -9,7 +9,7 @@ Kickoff and Orientation
 * [HPC-Training-Overview-04-12-2019.pdf](HPC-Training-Overview-04-12-2019.pdf)
 
 ## TASKS:
-1. Create your EXEDE portal account
+1. Create your XSEDE portal account
 
 2. Email the portalID to Mary  - this will activate the Comet account creation 
            process, which might take 24 hours.
