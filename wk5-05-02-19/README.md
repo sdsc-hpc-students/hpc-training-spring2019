@@ -8,9 +8,8 @@ Presented by: Andreas Goetz (agoetz  at  sdsc.edu)
 
 Source code and Instructions:
 
-[gpu-code-examples.tar.gz](gpu-code-examples.tar.gz)
-
-[sdsc-scc-gpu-computing-2019-05-03.pdf](sdsc-scc-gpu-computing-2019-05-03.pdf)
+* [gpu-code-examples.tar.gz](gpu-code-examples.tar.gz)
+* [sdsc-scc-gpu-computing-2019-05-03.pdf](sdsc-scc-gpu-computing-2019-05-03.pdf)
 
 
 ## TASKS:
