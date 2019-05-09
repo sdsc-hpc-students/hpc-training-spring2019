@@ -14,8 +14,19 @@ Source code and Instructions:
 
 ## TASKS:
 ### TASK 1:  Using GPU nodes  
-         See the README.md files in the tarfile directory and
-         following instructions on "How to sue Comet's GPU nodes"
+    Download and `untar` the gpu code file; 
+    `cd` into the `gpu-code-example`s directory
+
+```
+% tar xvf gpu-code-examples.tar.gz
+% cd gpu-code-example:s
+```
+See the README.md file in the tarfile directory and
+following instructions on "How to sue Comet's GPU nodes"
+
+
+# Obtain interactive shared GPU node on SDSC Comet (3h allocation)
+`getgpu`
 
 This will launch the command
 
