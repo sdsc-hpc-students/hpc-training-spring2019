@@ -72,6 +72,6 @@ Compile and run the following example:
  
 	 - saxpy
 	 
-The more ambitious are free to reproduce timings for the laplace-2d example (see README.md file)
+The more ambitious are free to reproduce timings for the `laplace-2d` example (see README.md file)
 
 
