@@ -8,3 +8,7 @@ This year the sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC
 
 
 ## To learn more, see [https://training.sdsc.edu/scc.html](https://training.sdsc.edu/scc.html)
+
+
+## Training Schedule:
+      <img src="images/SC19-color-hor.jpg" alt="SC19" height="80" width="150" align="right">
