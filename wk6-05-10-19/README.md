@@ -6,7 +6,7 @@
 ## Presented by: Dr. Mahidhar Tatineni (mahidhar  at  sdsc.edu)
 
 ## READING AND PRESENTATIONS:
-* [presentation](presentation)
+* [MPI Presentation](./SCC_MPI.pdf)
 
 ## TASKS:
 1. Task 1: tbd
