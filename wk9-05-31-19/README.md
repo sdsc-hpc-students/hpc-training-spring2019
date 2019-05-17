@@ -1,12 +1,12 @@
 # HPC Training:  Spring 2019
- Week 6:  mm/dd/yyyy
+## Week 9:  5/31/19	
 
 
-## TOPIC:  Topic Title here
-## Presented by: NAME  (email)
+## TOPIC:  Common profiling and monitoring software and tools( Gprof ARM MAP); Optimization of cache (Dr. Robert Sinkovits)	
+## Presented by: Dr. Robert Sinkovits  (sinkovit at sdsc.edu)
 
 ## READING AND PRESENTATIONS:
-* [presentation](presentation)
+* [tbd](tbd)
 
 ## TASKS:
 1. Task 1: tbd
