@@ -1,8 +1,6 @@
 # HPC Training:  Spring 2019
- Week 2: April 12, 2019
-
-## TOPIC:  
-Kickoff and Orientation
+## WEEK 2: April 12, 2019
+## TOPIC:  Kickoff and Orientation
 
 ## READING AND PRESENTATIONS:
 * [HPC-Students-Kickoff-Mtg-01-18-2019.pdf](./HPC-Students-Kickoff-Mtg-01-18-2019.pdf)

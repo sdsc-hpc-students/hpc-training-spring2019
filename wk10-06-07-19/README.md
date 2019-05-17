@@ -1,9 +1,10 @@
 # HPC Training:  Spring 2019
- Week 6:  mm/dd/yyyy
+## Week 10:  06/07/19
 
-
-## TOPIC:  Topic Title here
-## Presented by: NAME  (email)
+## TOPICS: 
+* Data Analytics (Tensor flow; torch) 
+* Machine learning (Horovod) 
+## PRESENTED BY: Dr. Mahidhar Tatineni ( )	
 
 ## READING AND PRESENTATIONS:
 * [presentation](presentation)

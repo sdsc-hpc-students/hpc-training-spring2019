@@ -1,8 +1,8 @@
 # HPC Training:  Spring 2019
- Week 3: 04/19/2019
+## WEEK 3: 04/19/2019
 
 ## TOPIC:  Running Jobs on Comet 
-Presented by:  Mary Thomas (mthomas@sdsc.edu)
+## PRESENTED BY:  Mary Thomas (mthomas@sdsc.edu)
 
 ## READING AND PRESENTATIONS:
 * [HPC-Training-RunningJobsComet-04-19-2019-All.pdf](HPC-Training-RunningJobsComet-04-19-2019-All.pdf)

@@ -1,9 +1,8 @@
 # HPC Training:  Spring 2019
- Week 6: 5/10/19
-
+## WEEK 6: 5/10/19
 
 ## TOPIC:  Intro to MPI 
-## Presented by: Dr. Mahidhar Tatineni (mahidhar  at  sdsc.edu)
+## PRESENTED BY: Dr. Mahidhar Tatineni (mahidhar  at  sdsc.edu)
 
 ## READING AND PRESENTATIONS:
 * [MPI Presentation](./SCC_MPI.pdf)
