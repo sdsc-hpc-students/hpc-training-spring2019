@@ -1,15 +1,7 @@
 # HPC Training:  Spring 2019
- Week 6:  mm/dd/yyyy
+## Week 7:  05/17/19
 
 
-## TOPIC:  Topic Title here
-## Presented by: NAME  (email)
+## TOPIC:  BREAK
 
-## READING AND PRESENTATIONS:
-* [presentation](presentation)
-
-## TASKS:
-1. Task 1: tbd
-
-2. Task 2: tbd
 

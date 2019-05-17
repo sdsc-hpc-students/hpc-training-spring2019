@@ -1,12 +1,11 @@
 # HPC Training:  Spring 2019
- Week 6:  mm/dd/yyyy
+##  Week 8:  05/24/19
 
-
-## TOPIC:  Topic Title here
-## Presented by: NAME  (email)
+## TOPIC:  Cloud computing; Containers (Dr. Martin Kandes)	
+## Presented by: Dr. Martin Kandes  (mkandes at sdsc.edu)
 
 ## READING AND PRESENTATIONS:
-* [presentation](presentation)
+* [tbd](tbd)
 
 ## TASKS:
 1. Task 1: tbd
