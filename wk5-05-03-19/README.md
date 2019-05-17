@@ -1,5 +1,5 @@
 # HPC Training:  Spring 2019
-## WEEk 5: 05/03/2019
+## WEEK 5: 05/03/2019
 
 ## TOPIC:  CUDA/GPU Computing
 ## PRESENTED BY: Andreas Goetz (agoetz  at  sdsc.edu)
