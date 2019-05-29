@@ -1,5 +1,5 @@
 # HPC Training: Spring 2019
-Week 4: Friday, May 26th, 2019
+Week 8: Friday, May 26th, 2019
 
 ## TOPIC: An Introduction to Cloud Computing
 Presented by: Dr. Martin Kandes (mkandes@sdsc.edu)
@@ -14,6 +14,7 @@ Presented by: Dr. Martin Kandes (mkandes@sdsc.edu)
   [HTCondor Manual](https://htcondor.readthedocs.io/en/v8_8_3)
 
 ## TASKS:
+0. Setup access to the jetstream cloud:
 1. Spin up an m1.tiny instance at IU using the Openstack Horizon GUI. 
 2. Install HTCondor on this instance and configure it as a Personal HTCondor pool.
 3. Run the bash_pi.htcondor job on your Personal HTCondor pool.
