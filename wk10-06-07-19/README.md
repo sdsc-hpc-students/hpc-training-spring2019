@@ -10,7 +10,7 @@
 * [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf)
 
 ## TASKS:
-1. Jupyter Notebooks: Run a jupyter notebook on comet
+1. Jupyter Notebooks: Run a jupyter notebook on comet using Python notebooks developed by Bob Sinkovits
 * Accessing via Jupyter Notebook
 Clone this repository:   https://github.com/sinkovit/PythonSeries
 ```
@@ -30,7 +30,9 @@ Load the singularity module that knows about jupyter notebooks and get an intera
 module load singularity
 singularity shell /share/apps/gpu/singularity/sdsc_ubuntu_tf1.1_keras_R.img
 ```
-Launch the Jupyter Notebook application. Note: this application will be running on comet, and you will be given an https URL which you will connect to using your local web browser:
+Check out the Readme.md file, it will explaing what is in the different notebooks.
+Launch the Jupyter Notebook application. 
+Note: this application will be running on comet, and you will be given a URL which will connect your local web browser the interactive comet session:
 ```
 ipython notebook --no-browser --ip=`/bin/hostname`
 ```
