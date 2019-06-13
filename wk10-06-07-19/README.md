@@ -10,7 +10,7 @@
 * [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf)
 
 ## TASKS:
-1. Run a jupyter notebook on comet
+1. Jupyter Notebooks: Run a jupyter notebook on comet
 * Accessing via Jupyter Notebook
 Clone this repository:   https://github.com/sinkovit/PythonSeries
 ```
@@ -47,8 +47,37 @@ To learn about Python, run the ```Python basics.ipynb```   notebook.
 To see an example of remote visualization, run the  ```Matplotlib.ipynb```  notebook!
 
 
-2. Try one of this Machine Learning examples:
+
+2.  Machine Learning examples:
+Try one of the MINST example from Mahidhar's presentation. See slide 42. 
+First, create a directory in week10 to put the codes into (e.g. mach.learn)
+Copy the directory below into your ```mach.learn``` directory:
 ```
-module load singularity
-singularity shell /share/apps/gpu/singularity/sdsc_ubuntu_tf1.1_keras_R.img
+cp -R /share/apps/examples/SCC/ML_Tensorflow .
 ```
+You will see a jupyter notebook in the directory:  
+```
+[mthomas@comet-ln2:~/hpctrain/mach.learn/ML_Tensorflow] ls -al 
+total 4072
+drwxr-xr-x 2 mthomas use300       8 Jun 12 20:38 .
+drwxr-xr-x 3 mthomas use300       3 Jun 12 20:38 ..
+-rw-r--r-- 1 mthomas use300   41066 Jun 12 20:38 LabMNIST_Final.ipynb
+-rw-r--r-- 1 mthomas use300    3416 Jun 12 20:38 LabMNIST_v1_py3.py
+-rw-r--r-- 1 mthomas use300 7840080 Jun 12 20:38 X_test.npy
+-rw-r--r-- 1 mthomas use300 3920080 Jun 12 20:38 X_train5k.npy
+-rw-r--r-- 1 mthomas use300   10080 Jun 12 20:38 Y_test.npy
+-rw-r--r-- 1 mthomas use300    5080 Jun 12 20:38 Y_train5k.npy
+```
+Follow the directions in Task 1, and grab an interactive node.
+Paste the URL into the local browser. Once you see the Jypyter notebook, 
+click on the ```LabMNIST_Final.ipynb``` file.
+When the browser opens, run the notebook in steps so you can see the machine learning develop.
+Change the number of ```epochs``` and see if the images are different (see line with equation below:
+```
+In [*] .  mymodel.fit(X_train, Y_train, batch_size=32, epochs=30, verbose=1)
+```
+
+
+
+
+
