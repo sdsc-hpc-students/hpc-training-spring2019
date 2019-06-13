@@ -74,11 +74,11 @@ Follow the directions in Task 1, and grab an interactive node.
 Paste the URL into the local browser. Once you see the Jypyter notebook, 
 click on the ```LabMNIST_Final.ipynb``` file.
 When the browser opens, run the notebook in steps so you can see the machine learning develop.
-Change the number of ```epochs``` and see if the images are different (see line with equation below:
-```
-In [*] .  mymodel.fit(X_train, Y_train, batch_size=32, epochs=30, verbose=1)
-```
 
+You can make the following changes, to see how the filter efficiency and effectiveness are impacted: does the code take longer? does it have better resolution?
+* modify the filter size: 2x2, 3x3, 5x5, ... 
+* change the number of layers: 8, 12, 16, 24 
+* change the back propagation algorithm: currently set to stochastic gradient descent
 
 
 
