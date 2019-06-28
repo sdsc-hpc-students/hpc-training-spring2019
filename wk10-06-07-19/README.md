@@ -11,8 +11,14 @@
 
 ## TASKS:
 1. Jupyter Notebooks: Run a jupyter notebook on comet using Python notebooks developed by Bob Sinkovits
-* Accessing via Jupyter Notebook
-Clone this repository:   https://github.com/sinkovit/PythonSeries
+
+* Log onto comet.sdsc.edu:
+```
+ssh -Y -l <username> comet.sdsc.edu
+```
+
+* Clone Jupyter Notebook repository
+  https://github.com/sinkovit/PythonSeries
 ```
 git clone git@github.com:sinkovit/PythonSeries.git
 ```
