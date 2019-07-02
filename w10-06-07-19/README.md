@@ -20,8 +20,14 @@ PRESENTED BY: Dr. Mahidhar Tatineni
 ## TASKS:
 ### 1. Jupyter Notebooks: 
 Learn how to run/edit a jupyter notebook on comet using Python notebooks 
-* Accessing via Jupyter Notebook
-Clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
+
+* Log onto comet.sdsc.edu  
+```
+ssh -Y -l <username> comet.sdsc.edu
+```
+
+* create a test directory, or ```cd``` into one you have already created
+* Clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
 ```
 git clone git@github.com:sinkovit/PythonSeries.git
 ```
