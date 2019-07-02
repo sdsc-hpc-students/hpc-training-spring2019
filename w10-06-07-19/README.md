@@ -2,24 +2,19 @@
 ## WEEK 10:  06/07/19	
 
 ## TOPICS: 
-### Jupyter Notebooks Jupyter Notebooks
-* PRESENTED BY: Bailey Passmore and Mary Thomas 
-* Data Analytics (Tensor flow; torch) 
-### Machine learning (Horovod) 
-* PRESENTED BY: Dr. Mahidhar Tatineni ( )	
-
-## READING AND PRESENTATIONS:
-* Jupyter Notebooks by Bailey Passmore:
-This is the link to my GitHub repos: github.com/bailatrix/repositories
-** Try these repos (Note: Some of the notebooks don't load on the first try, but they are all there and working!):
+### 1.  Jupyter Notebooks Jupyter Notebooks
+PRESENTED by Bailey Passmore
+Link to GitHub repos: github.com/bailatrix/repositories
   * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
   * WeatherPy: Uses openweathermap API to import data. Minimal data cleaning and formatting in pandas. 
   * London-Traffic-Trends: Lots of data cleaning in pandas and simple use of matplotlib for visualizations. 
+Note: Some of the notebooks don't load on the first try, but they are all there and working!
 
-* [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf)
+### 2.  Overview of ML/DL frameworks -TensorFlow, PyTorch, and Horovod
+* [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf) PRESENTED BY: Dr. Mahidhar Tatineni
 
 ## TASKS:
-1. Jupyter Notebooks: Run a jupyter notebook on comet using Python notebooks developed by Bob Sinkovits
+### 1. Jupyter Notebooks: Run a jupyter notebook on comet using Python notebooks developed by Bob Sinkovits
 * Accessing via Jupyter Notebook
 Clone this repository:   https://github.com/sinkovit/PythonSeries
 ```
@@ -59,7 +54,7 @@ To see an example of remote visualization, run the  ```Matplotlib.ipynb```  note
 
 
 
-2.  Machine Learning examples:
+### 2.  Machine Learning examples:
 Try one of the MINST example from Mahidhar's presentation. See slide 42. 
 First, create a directory in week10 to put the codes into (e.g. mach.learn)
 Copy the directory below into your ```mach.learn``` directory:
