@@ -2,11 +2,11 @@
 ## WEEK 10:  06/07/19	
 
 ## TOPICS: 
-* Jupyter Notebooks Jupyter Notebooks
-## PRESENTED BY: Bailey Passmore and Mary Thomas 
+### Jupyter Notebooks Jupyter Notebooks
+* PRESENTED BY: Bailey Passmore and Mary Thomas 
 * Data Analytics (Tensor flow; torch) 
-* Machine learning (Horovod) 
-## PRESENTED BY: Dr. Mahidhar Tatineni ( )	
+### Machine learning (Horovod) 
+* PRESENTED BY: Dr. Mahidhar Tatineni ( )	
 
 ## READING AND PRESENTATIONS:
 * Jupyter Notebooks by Bailey Passmore:
