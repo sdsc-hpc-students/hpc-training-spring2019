@@ -2,11 +2,20 @@
 ## WEEK 10:  06/07/19	
 
 ## TOPICS: 
+* Jupyter Notebooks Jupyter Notebooks
+## PRESENTED BY: Bailey Passmore and Mary Thomas 
 * Data Analytics (Tensor flow; torch) 
 * Machine learning (Horovod) 
 ## PRESENTED BY: Dr. Mahidhar Tatineni ( )	
 
 ## READING AND PRESENTATIONS:
+* Jupyter Notebooks by Bailey Passmore:
+This is the link to my GitHub repos: github.com/bailatrix/repositories
+** Try these repos (Note: Some of the notebooks don't load on the first try, but they are all there and working!):
+  * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
+  * WeatherPy: Uses openweathermap API to import data. Minimal data cleaning and formatting in pandas. 
+  * London-Traffic-Trends: Lots of data cleaning in pandas and simple use of matplotlib for visualizations. 
+
 * [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf)
 
 ## TASKS:
