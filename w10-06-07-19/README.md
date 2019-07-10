@@ -4,7 +4,8 @@
 ## TOPICS: 
 ### 1.  Jupyter Notebooks
 
-PRESENTED by Bailey Passmore (Supercomputing Club)
+PROJECT PRESENTATION by Bailey Passmore (Supercomputing Club)
+INSTRUCTIONS Below (by Mary Thomas)
 
 Link to Bailey Passmores GitHub repos: [github.com/bailatrix/repositories](github.com/bailatrix/repositories)
   * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
@@ -18,7 +19,7 @@ Note: Some of the notebooks don't load on the first try, but they are all there 
 PRESENTED BY: Dr. Mahidhar Tatineni
 
 ## TASKS:
-### 1. Jupyter Notebooks: 
+### 1. Using Jupyter Notebooks (by Mary Thomas): 
 Learn how to run/edit a jupyter notebook on comet using Python notebooks 
 
 * Log onto comet.sdsc.edu  
