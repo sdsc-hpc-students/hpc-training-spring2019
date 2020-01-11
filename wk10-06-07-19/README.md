@@ -1,24 +1,32 @@
 # HPC Training:  Spring 2019
-## Week 10:  06/07/19
+## WEEK 10:  06/07/19	
 
 ## TOPICS: 
-* Data Analytics (Tensor flow; torch) 
-* Machine learning (Horovod) 
-## PRESENTED BY: Dr. Mahidhar Tatineni ( )	
+### 1.  Jupyter Notebooks
+Using Jupyter Notebooks (by Mary Thomas): see below
 
-## READING AND PRESENTATIONS:
-* [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf)
+Link to Bailey Passmores GitHub repos: [github.com/bailatrix/repositories](github.com/bailatrix/repositories)
+  * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
+  * WeatherPy: Uses openweathermap API to import data. Minimal data cleaning and formatting in pandas. 
+  * London-Traffic-Trends: Lots of data cleaning in pandas and simple use of matplotlib for visualizations. 
+Note: Some of the notebooks don't load on the first try, but they are all there and working!
+
+### 2.  Overview of ML/DL frameworks -TensorFlow, PyTorch, and Horovod
+* [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf) 
+
+PRESENTED BY: Dr. Mahidhar Tatineni
 
 ## TASKS:
-1. Jupyter Notebooks: Run a jupyter notebook on comet using Python notebooks developed by Bob Sinkovits
+### 1. Using Jupyter Notebooks (by Mary Thomas): 
+Learn how to run/edit a jupyter notebook on comet using Python notebooks 
 
-* Log onto comet.sdsc.edu:
+* Log onto comet.sdsc.edu  
 ```
 ssh -Y -l <username> comet.sdsc.edu
 ```
 
-* Clone Jupyter Notebook repository
-  https://github.com/sinkovit/PythonSeries
+* create a test directory, or ```cd``` into one you have already created
+* Clone this repository (developed by Bob Sinkovits):   [https://github.com/sinkovit/PythonSeries](https://github.com/sinkovit/PythonSeries)
 ```
 git clone git@github.com:sinkovit/PythonSeries.git
 ```
@@ -56,7 +64,7 @@ To see an example of remote visualization, run the  ```Matplotlib.ipynb```  note
 
 
 
-2.  Machine Learning examples:
+### 2.  Machine Learning examples:
 Try one of the MINST example from Mahidhar's presentation. See slide 42. 
 First, create a directory in week10 to put the codes into (e.g. mach.learn)
 Copy the directory below into your ```mach.learn``` directory:
@@ -85,7 +93,4 @@ You can make the following changes, to see how the filter efficiency and effecti
 * modify the filter size: 2x2, 3x3, 5x5, ... 
 * change the number of layers: 8, 12, 16, 24 
 * change the back propagation algorithm: currently set to stochastic gradient descent
-
-
-
 
