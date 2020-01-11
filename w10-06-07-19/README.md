@@ -3,9 +3,7 @@
 
 ## TOPICS: 
 ### 1.  Jupyter Notebooks
-
-PROJECT PRESENTATION by Bailey Passmore (Supercomputing Club)
-INSTRUCTIONS Below (by Mary Thomas)
+Using Jupyter Notebooks (by Mary Thomas): see below
 
 Link to Bailey Passmores GitHub repos: [github.com/bailatrix/repositories](github.com/bailatrix/repositories)
   * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
