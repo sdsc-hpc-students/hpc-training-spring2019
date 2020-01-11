@@ -7,8 +7,8 @@ SDSC is offering HPC Training for UCSD undergraduate and graduate students. The 
 This year the sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC SynCenter, or the Auditorium.
 
 
-## To learn more, see [https://training.sdsc.edu/scc.html](https://training.sdsc.edu/scc.html)
+## To learn more, see [https://hpc-students.sdsc.edu](https://hpc-students.sdsc.edu)
 
 
-## Training Schedule:
-      <img src="images/SC19-color-hor.jpg" alt="SC19" height="80" width="150" align="right">
+## 2019 HPC Training Schedule:
+[https://hpc-students.sdsc.edu/hpc-training-sched-2019.html](https://hpc-students.sdsc.edu/hpc-training-sched-2019.html)
