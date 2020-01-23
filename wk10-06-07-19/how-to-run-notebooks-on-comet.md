@@ -1,22 +1,4 @@
-# HPC Training:  Spring 2019
-## WEEK 10:  06/07/19	
 
-## TOPICS: 
-### 1.  Jupyter Notebooks
-Using Jupyter Notebooks (by Mary Thomas): see below
-
-Link to Bailey Passmores GitHub repos: [github.com/bailatrix/repositories](github.com/bailatrix/repositories)
-  * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
-  * WeatherPy: Uses openweathermap API to import data. Minimal data cleaning and formatting in pandas. 
-  * London-Traffic-Trends: Lots of data cleaning in pandas and simple use of matplotlib for visualizations. 
-Note: Some of the notebooks don't load on the first try, but they are all there and working!
-
-### 2.  Overview of ML/DL frameworks -TensorFlow, PyTorch, and Horovod
-* [Presentation on Machine learning (Horovod):](https://github.com/sdsc-hpc-students/hpc-training-spring2019/blob/master/wk10-06-07-19/DL_TensorFlow_PyTorch_Horovod.pdf) 
-
-PRESENTED BY: Dr. Mahidhar Tatineni
-
-## TASKS:
 ### 1. Using Jupyter Notebooks (by Mary Thomas): 
 Learn how to run/edit a jupyter notebook on comet using Python notebooks 
 
