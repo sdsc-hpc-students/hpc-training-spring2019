@@ -22,13 +22,6 @@ Learn how to run/edit a jupyter notebook on comet using Python notebooks. See:
 **Using Jupyter Notebooks**, by Mary Thomas: see https://github.com/sdsc-hpc-training/basic_skills/tree/master/how_to_run_notebooks_on_comet
 
 
-Link to Bailey Passmores GitHub repos: [github.com/bailatrix/repositories](github.com/bailatrix/repositories)
-  * PharmaPy: Reading csv files. Almost no data cleaning. Lots of detailed graph building with matplotlib. 
-  * WeatherPy: Uses openweathermap API to import data. Minimal data cleaning and formatting in pandas. 
-  * London-Traffic-Trends: Lots of data cleaning in pandas and simple use of matplotlib for visualizations. 
-Note: Some of the notebooks don't load on the first try, but they are all there and working!
-
-
 ### 2.  Machine Learning examples:
 Try one of the MINST example from Mahidhar's presentation. See slide 42. 
 First, create a directory in week10 to put the codes into (e.g. mach.learn)
