@@ -11,4 +11,4 @@ This year the sessions will be held on Fridays from 1:00pm to 3:00pm in the SDSC
 
 
 ## 2019 HPC Training Schedule:
-[https://hpc-students.sdsc.edu/hpc-training-sched-2019.html](https://hpc-students.sdsc.edu/hpc-training-sched-2019.html)
+[https://hpc-students.sdsc.edu/hpc-training/hpc-training-sched-2019.html](https://hpc-students.sdsc.edu/hpc-training/hpc-training-sched-2019.html)
